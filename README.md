@@ -1,2 +1,2 @@
-# practica1_dfp
+# practica1_fdp
 Fundamentos de Programación FI, UNAM
